@@ -1,0 +1,14 @@
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\bin\Debug\netcoreapp2.2\StartUp.Quiz.Repository.deps.json
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\bin\Debug\netcoreapp2.2\StartUp.Quiz.Repository.dll
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\bin\Debug\netcoreapp2.2\StartUp.Quiz.Repository.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\bin\Debug\netcoreapp2.2\StartUp.Quiz.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\bin\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.dll
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\bin\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\bin\Debug\netcoreapp2.2\StartUp.Quiz.Model.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\obj\Debug\netcoreapp2.2\StartUp.Quiz.Repository.csprojAssemblyReference.cache
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\obj\Debug\netcoreapp2.2\StartUp.Quiz.Repository.csproj.CoreCompileInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\obj\Debug\netcoreapp2.2\StartUp.Quiz.Repository.AssemblyInfoInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\obj\Debug\netcoreapp2.2\StartUp.Quiz.Repository.AssemblyInfo.cs
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\obj\Debug\netcoreapp2.2\StartUp.Quiz.Repository.csproj.CopyComplete
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\obj\Debug\netcoreapp2.2\StartUp.Quiz.Repository.dll
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.Repository\obj\Debug\netcoreapp2.2\StartUp.Quiz.Repository.pdb

@@ -1,0 +1,12 @@
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.deps.json
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.dll
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Quiz.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\bin\Debug\netcoreapp2.2\StartUp.Quiz.Model.pdb
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.csprojAssemblyReference.cache
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.csproj.CoreCompileInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.AssemblyInfoInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.AssemblyInfo.cs
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.csproj.CopyComplete
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.dll
+F:\iMe\Project\StartUp\Project\StartUp.Quiz\StartUp.Quiz\StartUp.Quiz.UnitOfWork\obj\Debug\netcoreapp2.2\StartUp.Quiz.UnitOfWork.pdb
